@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/windavt/static/css/main.922099a0.css",
+    "main.js": "/windavt/static/js/main.7dffeb45.js",
+    "static/js/787.56ba2143.chunk.js": "/windavt/static/js/787.56ba2143.chunk.js",
+    "index.html": "/windavt/index.html",
+    "main.922099a0.css.map": "/windavt/static/css/main.922099a0.css.map",
+    "main.7dffeb45.js.map": "/windavt/static/js/main.7dffeb45.js.map",
+    "787.56ba2143.chunk.js.map": "/windavt/static/js/787.56ba2143.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.922099a0.css",
+    "static/js/main.7dffeb45.js"
+  ]
+}
